@@ -50,7 +50,7 @@ export function Overseas() {
 
         <Reveal delay={200}>
           <p className="mt-12 font-heading text-xl text-balance text-gold-soft sm:text-2xl">
-            You're not just buying a service, you're buying peace of mind.
+            You're not just buying a service - you're buying peace of mind.
           </p>
         </Reveal>
       </div>
