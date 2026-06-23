@@ -39,7 +39,7 @@ export function Hero() {
           className="mt-7 max-w-2xl text-pretty text-base leading-relaxed text-foreground/90 sm:text-lg"
           style={{ animation: "fade-up 0.9s ease 0.25s both" }}
         >
-          <span className="font-semibold">A-Z</span> by Oren Cohen Group provides you with a comprehensive personal and professional support package featuring top-tier professionals and carefully selected suppliers who will guide you at every stage of your property purchase or renovation in Jerusalem.
+          <span className="font-semibold">A-Z</span> by Oren Cohen Group provides you with a comprehensive personal and professional support package, featuring top-tier professionals and carefully selected suppliers who will guide you at every stage of your property purchase, or renovation in Jerusalem.
           <br />
           From vision to detailed planning, through to flawless execution — every step of the way, down to the last detail.
         </p>

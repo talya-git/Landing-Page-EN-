@@ -25,7 +25,7 @@ export function Problem() {
             Buying luxury property in Jerusalem is unlike buying anywhere else.
           </h2>
           <p className="mt-6 text-pretty leading-relaxed text-muted-foreground">
-            The combination of complex local regulations and unique challenges facing overseas buyers creates a landscape that demands deep expertise and trusted guidance. That's why you need the right person in the right place.
+            The combination of complex local regulations and unique challenges facing overseas buyers, creates a landscape that demands deep expertise and trusted guidance. That's why you need the right person in the right place.
           </p>
         </Reveal>
 
