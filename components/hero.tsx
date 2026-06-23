@@ -1,4 +1,4 @@
-"use client"
+﻿"use client"
 
 export function Hero() {
   return (
@@ -41,7 +41,7 @@ export function Hero() {
         >
           <span className="font-semibold">A-Z</span> by Oren Cohen Group provides you with a comprehensive personal and professional support package, featuring top-tier professionals and carefully selected suppliers who will guide you at every stage of your property purchase, or renovation in Jerusalem.
           <br />
-          From vision to detailed planning, through to flawless execution — every step of the way, down to the last detail.
+          From vision to detailed planning, through to flawless execution - every step of the way, down to the last detail.
         </p>
         <p
           className="mt-4 font-heading text-lg text-gold-soft sm:text-xl"
@@ -65,3 +65,4 @@ export function Hero() {
     </section>
   )
 }
+

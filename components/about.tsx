@@ -1,4 +1,4 @@
-import { Reveal } from "@/components/reveal"
+﻿import { Reveal } from "@/components/reveal"
 
 
 export function About() {
@@ -33,7 +33,7 @@ export function About() {
             About Us
           </span>
           <h2 className="mt-4 font-heading text-3xl font-bold leading-tight tracking-[-0.04em] text-balance text-gold-gradient sm:text-4xl md:text-5xl">
-            Buying an apartment isn't just a transaction — it's a deeply personal journey.
+            Buying an apartment isn't just a transaction - it's a deeply personal journey.
           </h2>
           <p className="mt-6 text-pretty leading-relaxed text-muted-foreground">
             At Oren Cohen Group, we see property acquisition as a personal journey and are committed to providing you with a smooth, professional experience at every stage, so you feel confident and at ease. From the early stages of financial planning, through legal considerations, to designing your vision for home.
@@ -46,3 +46,4 @@ export function About() {
     </section>
   )
 }
+

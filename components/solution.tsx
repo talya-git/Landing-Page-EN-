@@ -1,4 +1,4 @@
-import { Reveal } from "@/components/reveal"
+﻿import { Reveal } from "@/components/reveal"
 import { UserCheck, MapPinned, Layers } from "lucide-react"
 
 const points = [
@@ -21,7 +21,7 @@ export function Solution() {
             So what is A-Z?
           </h2>
           <p className="mt-6 text-pretty leading-relaxed text-muted-foreground">
-            A-Z is a full-service solution covering every aspect of your real estate journey in Jerusalem: from legal support through financing, planning and design at the highest levels, to direct connections with local suppliers and selected importers — no middlemen, at prices you won't find anywhere else. We ensure every step is smooth, secure, and handled by the best professionals, warmly recommended by our past clients upon completion.
+            A-Z is a full-service solution covering every aspect of your real estate journey in Jerusalem: from legal support through financing, planning and design at the highest levels, to direct connections with local suppliers and selected importers - no middlemen, at prices you won't find anywhere else. We ensure every step is smooth, secure, and handled by the best professionals, warmly recommended by our past clients upon completion.
           </p>
 
           <div className="mt-8 flex flex-col gap-4">
@@ -61,3 +61,4 @@ export function Solution() {
     </section>
   )
 }
+
