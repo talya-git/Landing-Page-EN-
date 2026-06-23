@@ -18,8 +18,8 @@ const CONTACTS = [
   },
   {
     label: "Call Us",
-    sub: "+972-2-663-4070",
-    href: "tel:+97226634070",
+    sub: "+972 54-559-6052",
+    href: "tel:+972545596052",
     icon: Phone,
   },
   {
@@ -31,7 +31,7 @@ const CONTACTS = [
   {
     label: "Our Website",
     sub: "A-Z Department",
-    href: "https://www.orencohengroup.com/he/a-z/",
+    href: "https://www.orencohengroup.com/a-z/",
     icon: Globe,
   },
 ]

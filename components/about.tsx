@@ -36,7 +36,7 @@ export function About() {
             Buying an apartment isn't just a transaction - it's a deeply personal journey.
           </h2>
           <p className="mt-6 text-pretty leading-relaxed text-muted-foreground">
-            At Oren Cohen Group, we see property acquisition as a personal journey and are committed to providing you with a smooth, professional experience at every stage, so you feel confident and at ease. From the early stages of financial planning, through legal considerations, to designing your vision for home.
+            At Oren Cohen Group, we see property acquisition as a personal journey and are committed to providing you with a smooth, professional experience at every stage, so you feel confident and at ease. From the early stages of financial planning, through legal considerations, to designing your vision of a perfect home.
           </p>
           <p className="mt-4 text-pretty leading-relaxed text-muted-foreground">
             Having guided thousands of buyers from Jewish communities worldwide and from Israel over the past three decades, we have gained experience that allows us to make the purchasing process professional and enjoyable, bringing you to your housewarming with a big smile.
