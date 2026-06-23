@@ -35,7 +35,7 @@ const services = [
     num: "05",
     title: "Kitchens, Carpentry & Finishes",
     subtitle: "Where your home gets its character",
-    items: ["Custom kitchens & carpentry", "Ceramics, cladding & sanitary ware", "Full supplier coordination"],
+    items: ["Custom kitchens & premium carpentry", "Ceramics, cladding & sanitary ware", "Full supplier coordination"],
   },
 ]
 
@@ -87,7 +87,7 @@ export function Services() {
             <div className="flex h-full flex-col items-center justify-center rounded-2xl border border-gold/30 bg-gold/5 p-7 text-center">
               <img src="/media/a-z.png" alt="A-Z" className="mb-5 h-16 w-auto" />
               <p className="font-heading text-xl font-bold text-balance text-foreground">
-                Considering buying or already a client? Let us handle everything.
+                Considering buying or renovating? Already a client? Let us handle everything.
               </p>
               <a
                 href="#contact"

@@ -2,7 +2,7 @@ import { Reveal } from "@/components/reveal"
 import { UserCheck, MapPinned, Layers } from "lucide-react"
 
 const points = [
-  { icon: UserCheck, title: "Curated Expert Network", text: "Handpicked professionals with a proven track record among our clients." },
+  { icon: UserCheck, title: "Curated Expert Network", text: "Handpicked professionals with a proven track record, warmly recommended by our past clients." },
   { icon: MapPinned, title: "Everything Under One Roof", text: "Legal, design, financial, suppliers, importers, and property management." },
   { icon: Layers, title: "Smooth & Secure Process", text: "Every step is supervised by our team, solely for your best interests." },
 ]
@@ -21,7 +21,7 @@ export function Solution() {
             So what is A-Z?
           </h2>
           <p className="mt-6 text-pretty leading-relaxed text-muted-foreground">
-            A-Z is a full-service solution covering every aspect of luxury real estate in Jerusalem: from legal support and design, through financing, direct connection with suppliers and importers, to property management. We ensure every step is smooth, secure, and handled by the best professionals.
+            A-Z is a full-service solution covering every aspect of your real estate journey in Jerusalem: from legal support through financing, planning and design at the highest levels, to direct connections with local suppliers and selected importers — no middlemen, at prices you won't find anywhere else. We ensure every step is smooth, secure, and handled by the best professionals, warmly recommended by our past clients upon completion.
           </p>
 
           <div className="mt-8 flex flex-col gap-4">

@@ -6,7 +6,7 @@ export function SiteFooter() {
         <div>
           <p className="font-heading text-lg tracking-[0.2em] text-foreground">A-Z BY OREN COHEN GROUP</p>
           <p className="mt-2 text-sm leading-relaxed text-muted-foreground">
-            Your Family Office for real estate in Israel. 30 years of excellence in luxury real estate.
+            Your Family Office for real estate in Israel. 30 years of excellence in real estate.
           </p>
         </div>
         <p className="text-xs text-muted-foreground">

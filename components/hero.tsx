@@ -30,16 +30,18 @@ export function Hero() {
           className="font-heading text-5xl font-bold leading-[1.1] tracking-[-0.04em] text-balance text-gold-shimmer drop-shadow-[0_2px_24px_rgba(0,0,0,0.55)] sm:text-7xl md:text-[5.25rem]"
           style={{ animation: "fade-up 0.9s ease 0.1s both" }}
         >
-          Dreaming of Owning
+          Planning to Purchase or Renovate
           <br />
-          Luxury Property in Jerusalem?
+          Property in Jerusalem?
         </h1>
 
         <p
           className="mt-7 max-w-2xl text-pretty text-base leading-relaxed text-foreground/90 sm:text-lg"
           style={{ animation: "fade-up 0.9s ease 0.25s both" }}
         >
-          <span className="font-semibold">A-Z</span> by Oren Cohen Group is a comprehensive and exclusive service that accompanies you at every step of your journey to purchasing luxury real estate in Jerusalem. Legal, design, financial, suppliers and importers — we're with you in every aspect.
+          <span className="font-semibold">A-Z</span> by Oren Cohen Group provides you with a comprehensive personal and professional support package featuring top-tier professionals and carefully selected suppliers who will guide you at every stage of your property purchase or renovation in Jerusalem.
+          <br />
+          From vision to detailed planning, through to flawless execution — every step of the way, down to the last detail.
         </p>
         <p
           className="mt-4 font-heading text-lg text-gold-soft sm:text-xl"
